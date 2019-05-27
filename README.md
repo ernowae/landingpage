@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## SELAMAT DATANG DI LANDING PAGE
+
+Anda adalah Mahasiswa Program Studi Sistem Informasi, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau
 
 You can use the [editor on GitHub](https://github.com/ernowae/landingpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
