@@ -8,7 +8,7 @@ JURUSAN   : SISTEM INFORMASI
 
 FAKULTAS  : SAINS TEKNOLOGI
 
-You can use the [editor on GitHub](https://github.com/ernowae/landingpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 ### BACKLINK
 
@@ -19,3 +19,4 @@ You can use the [editor on GitHub](https://github.com/ernowae/landingpage/edit/m
 ### About us
 
 Anda adalah Mahasiswa Program Studi Sistem Informasi, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau
+[ ](https://github.com/ernowae/landingpage/edit/master/README.md)
